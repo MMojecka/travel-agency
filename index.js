@@ -81,5 +81,5 @@ app.get("/expenses", (req, res) => {
 });
 
 app.listen(3000, () => {
-  console.log(`Server Started at ${3000}`);
+  console.log(`Server works at: ${3000}`);
 });
